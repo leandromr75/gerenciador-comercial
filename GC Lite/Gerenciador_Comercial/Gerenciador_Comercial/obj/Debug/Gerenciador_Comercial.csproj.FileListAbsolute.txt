@@ -1,0 +1,534 @@
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImportXMLEstoque.resources
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+C:\Users\Leandro\Pictures\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.UsuariosSistema.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+D:\Projetos_Visual_Studio\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.UsuariosSistema.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Config.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiltroLog.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.LOGs.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MovimentoCaixa.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PDV.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.tipoPagamento.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.UsuariosSistema.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Login.resources
+C:\Users\Leandro\Desktop\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TestaConexao.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AbrirCaixa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AlteraSenha.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Balança.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroParticipantes.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdRapido.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Calendario.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CEP.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ClienteFiado.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Clinte.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSAliq.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSNT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSQtde.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Config.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceber.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceberNovo.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.EmuladorSAT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Febraban.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FecharCaixa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiltroLog.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ICMSselecao.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImagemInternet.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImprimeCupom.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.InfoOS.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Licenca.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Login.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.LOGs.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MovimentoCaixa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrCOFINSSelect.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrPISSelect.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PDV.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Permissoes.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Pesquisagenero.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PesquisaParticipante.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISAliq.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISNT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISQtde.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PlanodeConta.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ProcurarPDV.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Representante.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Resource1.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Retirada.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SAT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SenhaBD.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ServidorImpressao.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Sobre.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TestaConexao.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.tipoPagamento.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.UsuariosSistema.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VerificaParticipante.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaFiado.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe.manifest
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.application
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe.manifest
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.application
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe.manifest
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.application
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AbrirCaixa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert2.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert3.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AlteraSenha.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Avisos.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Balança.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroParticipantes.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdRapido.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Calendario.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CEP.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CFOP_Entrada.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ClienteFiado.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Clinte.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSAliq.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSNT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSQtde.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Config.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceber.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceberNovo.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Desconto.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.EmuladorSAT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Febraban.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FecharCaixa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiadoClientes.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiltroLog.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FracionadoAlternativo.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Fracionados.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.HistoricoComprasFiado.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ICMSselecao.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImagemInternet.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImprimeCupom.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.InfoOS.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Licenca.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Login.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.LOGs.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MargemRapida.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MostraParcial.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MovimentoCaixa.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OK.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrCOFINSSelect.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrPISSelect.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ParcialList.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PDV.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Permissoes.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PesoPreço.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Pesquisagenero.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PesquisaParticipante.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISAliq.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISNT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISQtde.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTPercentual.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTValor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PlanodeConta.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ProcurarPDV.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.QuitaFiado.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Representante.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Resource1.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Retirada.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SAT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SenhaBD.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ServidorImpressao.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Sobre.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TestaConexao.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.tipoPagamento.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Troco.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.UsuariosSistema.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Valor.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VerificaParticipante.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaFiado.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe.manifest
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.application
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaSAT.resources
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Aspose.BarCode.dll
+C:\Users\Leandro\Desktop\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.EANInterno.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AbrirCaixa.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert2.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert3.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AlteraSenha.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Avisos.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Balança.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroParticipantes.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdRapido.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Calendario.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CEP.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CFOP_Entrada.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ClienteFiado.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Clinte.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSAliq.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSNT.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrPercentual.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrValor.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSQtde.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTPercentual.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTValor.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Config.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceber.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceberNovo.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Desconto.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.EANInterno.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.EmuladorSAT.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Febraban.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FecharCaixa.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiadoClientes.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiltroLog.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FracionadoAlternativo.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Fracionados.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.HistoricoComprasFiado.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ICMSselecao.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImagemInternet.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImprimeCupom.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.InfoOS.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Licenca.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Login.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.LOGs.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MargemRapida.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MostraParcial.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MovimentoCaixa.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OK.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrCOFINSSelect.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrPISSelect.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ParcialList.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PDV.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Permissoes.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PesoPreço.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Pesquisagenero.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PesquisaParticipante.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISAliq.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISNT.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrPercentual.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrValor.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISQtde.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTPercentual.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTValor.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PlanodeConta.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ProcurarPDV.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.QuitaFiado.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Representante.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Resource1.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Retirada.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SAT.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SenhaBD.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ServidorImpressao.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Sobre.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaSAT.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TestaConexao.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.tipoPagamento.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Troco.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.UsuariosSistema.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Valor.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VerificaParticipante.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaFiado.resources
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Aspose.BarCode.dll
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\leand\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.exe
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Gerenciador_Comercial.pdb
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Aspose.BarCode.dll
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AbrirCaixa.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AjudaEAN.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert2.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Alert3.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AlteraSenha.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadCalculaMargem.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadEmpresa.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AuxCadEstoque.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFamilia.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadFinalidade.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadGenero.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMarca.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadModelo.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadMoeda.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadNCM.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.AUXCadUnidade.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Avisos.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Balança.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroParticipantes.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdRapido.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1024x768.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadastroProdutos1366x768.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CadCores.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Calendario.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CEP.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.CFOP_Entrada.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ClienteFiado.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Clinte.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSAliq.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSNT.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrPercentual.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSOutrValor.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSQtde.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTPercentual.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.COFINSSTValor.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Config.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceber.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ContasReceberNovo.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Desconto.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.EANInterno.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.EmuladorSAT.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Febraban.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FecharCaixa.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiadoClientes.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FiltroLog.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.FracionadoAlternativo.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Fracionados.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.HistoricoComprasFiado.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ICMSselecao.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImagemInternet.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ImprimeCupom.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.InfoOS.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Licenca.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Login.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.LOGs.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MargemRapida.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MostraParcial.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.MovimentoCaixa.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OK.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrCOFINSSelect.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.OutrPISSelect.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ParcialList.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PDV.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Permissoes.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PesoPreço.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Pesquisagenero.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PesquisaParticipante.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISAliq.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISNT.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrPercentual.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISOutrValor.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISQtde.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTPercentual.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PISSTValor.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.PlanodeConta.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ProcurarPDV.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Properties.Resources.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.QuitaFiado.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Representante.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Resource1.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Retirada.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SAT.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.SenhaBD.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.ServidorImpressao.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Sobre.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaPrincipal.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TelaSAT.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.TestaConexao.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.tipoPagamento.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Troco.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.UsuariosSistema.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.Valor.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VerificaParticipante.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaDanfe.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.VisualizaFiado.resources
+C:\Users\Leandro\Desktop\C#\Importantes\GC LIte Beta 0.9983\GC LIte Beta 0.9983\GC Lite\Gerenciador_Comercial\Gerenciador_Comercial\obj\Debug\Gerenciador_Comercial.csproj.GenerateResource.Cache

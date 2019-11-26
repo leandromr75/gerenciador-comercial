@@ -1,0 +1,9 @@
+Baixa de Vendas a prazo
+.
+Pagamento parcial de saldo devedor
+Vendas : 175|
+Total Pago :2,00
+Saldo Devedor atualizado: 1,95
+Pagamento dinheiro
+Cliente : CELIA MEL
+Data : 31/03/2018

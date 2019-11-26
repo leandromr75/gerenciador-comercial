@@ -1,0 +1,41 @@
+<!---------------------------------------------------------------------------------- 
+habilitaValidacoes: 0 ou 1.
+	0 - O Emulador NAO valida os dados do cupom enviados pelo AC. Funcao "EnviarDadosVenda".
+	1 - O Emulador ira validar os dados do cupom enviados pelo AC. Funcao "EnviarDadosVenda".
+------------------------------------------------------------------------------------
+validarXMLSignature: 0 ou 1.
+	0 - O Emulador NAO verifica a assinatura do retorno dos web services.
+	1 - O Emulador ira validar a assinatura do retorno dos web services.
+------------------------------------------------------------------------------------
+fixarCadeiaCert: 0 ou 1.
+	0 - O Emulador ira obter a cadeia de certificacao no retorno do web service CFeCertificacao.
+	1 - O Emulador ira obter a cadeia de certificacao fixa no emulador.
+------------------------------------------------------------------------------------
+validarPeriodoCert: 0 ou 1. (versao 2.8.0 ou superior)
+	0 - O Emulador NAO verifica o periodo de validade do certificado do retorno dos webservices.
+	1 - O Emulador verifica o periodo de validade do certificado do retorno dos webservices.
+------------------------------------------------------------------------------------
+validarCadeiaCert: 0 ou 1. (versao 2.8.0 ou superior)
+	0 - O Emulador verifica APENAS se o certificado do retorno dos webservices foi emitido por 
+		um dos certificados presentes no arquivo de parametrizacao.
+	1 - O Emulador verifica se o certificado do retorno dos webservices possui a cadeia de certificacao
+		completa (Certificado raiz e intermediarios) no arquivo de parametrizacao. 
+------------------------------------------------------------------------------------
+informarCadeia: 0 ou 1. (versao 2.8.4 ou superior)
+	0 - O Emulador informara APENAS o certificado ICP-BRASIL sem a respectiva cadeia.
+	1 - O Emulador informara o certificado ICP-BRASIL e sua respectiva cadeia. 
+------------------------------------------------------------------------------------>
+<configuracoes>
+	<nserieSAT>123456789</nserieSAT>
+	<nSeg>ewfgwefewfwefqwfwefqwefewqfewfewfewfewqfew</nSeg>
+	<habilitaValidacoes>1</habilitaValidacoes>
+	<protocoloWebService>https</protocoloWebService>
+	<validarXMLSignature>1</validarXMLSignature>
+	<debug>1</debug>
+	<versaoSchema>0.03</versaoSchema>
+	<versaoLayoutCFe>0.03</versaoLayoutCFe>
+	<fixarCadeiaCert>0</fixarCadeiaCert>
+	<validarPeriodoCert>1</validarPeriodoCert>
+	<validarCadeiaCert>1</validarCadeiaCert>
+	<informarCadeia>0</informarCadeia>
+</configuracoes>
