@@ -1,0 +1,21 @@
+C:\chave\chave\chave\bin\Debug\chave.exe.config
+C:\chave\chave\chave\bin\Debug\chave.exe
+C:\chave\chave\chave\bin\Debug\chave.pdb
+C:\chave\chave\chave\obj\Debug\chave.Form1.resources
+C:\chave\chave\chave\obj\Debug\chave.Properties.Resources.resources
+C:\chave\chave\chave\obj\Debug\chave.csproj.GenerateResource.Cache
+C:\chave\chave\chave\obj\Debug\chave.exe
+C:\chave\chave\chave\obj\Debug\chave.pdb
+C:\chave\chave\chave\obj\Debug\chave.csprojResolveAssemblyReference.cache
+C:\Users\leand\Desktop\C#\Importantes\Backup17-07-2015\Backup17-07-2015\chave\chave\chave\bin\Debug\chave.exe.config
+C:\Users\leand\Desktop\C#\Importantes\Backup17-07-2015\Backup17-07-2015\chave\chave\chave\obj\Debug\chave.exe
+C:\Users\leand\Desktop\C#\Importantes\Backup17-07-2015\Backup17-07-2015\chave\chave\chave\obj\Debug\chave.pdb
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\bin\Debug\chave.exe.config
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\obj\Debug\chave.exe
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\obj\Debug\chave.pdb
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\bin\Debug\chave.exe
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\bin\Debug\chave.pdb
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\obj\Debug\chave.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\obj\Debug\chave.Form1.resources
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\obj\Debug\chave.Properties.Resources.resources
+C:\Users\Leandro\Desktop\C#\Importantes\chave GC\chave\chave\obj\Debug\chave.csproj.GenerateResource.Cache
